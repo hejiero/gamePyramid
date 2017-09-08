@@ -1,0 +1,37 @@
+{
+  "1": {
+    "name": "万里长城",
+    "star1": 30,
+    "star2": 80,
+    "star3": 150,
+    "prior_score": 0
+  },
+  "2": {
+    "name": "金字塔",
+    "star1": 40,
+    "star2": 90,
+    "star3": 160,
+    "prior_score": 80
+  },
+  "3": {
+    "name": "空中花园",
+    "star1": 50,
+    "star2": 100,
+    "star3": 180,
+    "prior_score": 90
+  },
+  "4": {
+    "name": "奥林匹亚",
+    "star1": 50,
+    "star2": 100,
+    "star3": 180,
+    "prior_score": 100
+  },
+  "5": {
+    "name": "亚特兰蒂斯",
+    "star1": 50,
+    "star2": 100,
+    "star3": 180,
+    "prior_score": 100
+  }
+}
