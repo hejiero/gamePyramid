@@ -1,0 +1,69 @@
+<skeleton name="ani_effects11_01" frameRate="30" version="2.2">
+ <armatures>
+  <armature name="ani_effects11_01">
+   <b name="b" x="0.35" y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="ani_effects11_01_png-ani_ef11_02" pX="30.7" pY="49.05"/>
+   </b>
+   <b name="a" x="0.2" y="-0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="ani_effects11_01_png-ani_ef11_01" pX="30.6" pY="49"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="ani_effects11_01">
+   <mov name="01" dr="25" to="0" drTW="25" lp="0" twE="NaN">
+    <b name="b" sc="1" dl="0">
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="2.17" cY="2.17" pX="0" pY="0" z="0" dI="0" twE="0" dr="7">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.4" y="-0.3" cocos2d_x="0.4" cocos2d_y="-0.3" kX="0" kY="0" cX="4.49" cY="4.49" pX="0" pY="0" z="0" dI="0" twE="0" dr="13">
+      <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="6.39" cY="6.39" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+   <mov name="02" dr="25" to="0" drTW="48" lp="0" twE="NaN">
+    <b name="b" sc="1" dl="0">
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="2.17" cY="2.17" pX="0" pY="0" z="0" dI="0" twE="0" dr="7">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.4" y="-0.3" cocos2d_x="0.4" cocos2d_y="-0.3" kX="0" kY="0" cX="4.49" cY="4.49" pX="0" pY="0" z="0" dI="0" twE="0" dr="13">
+      <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="6.39" cY="6.39" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="a" sc="1" dl="0">
+     <f x="0.2" y="-0.15" cocos2d_x="0.2" cocos2d_y="-0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="18">
+      <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.2" y="-0.15" cocos2d_x="0.2" cocos2d_y="-0.15" kX="0" kY="0" cX="13.32" cY="13.32" pX="0" pY="0" z="1" dI="0" dr="6">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.2" y="-0.15" cocos2d_x="0.2" cocos2d_y="-0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="ani_effects11_01" width="128" height="128">
+  <SubTexture name="ani_effects11_01_png-ani_ef11_01" width="61" height="98" cocos2d_pX="30.6" cocos2d_pY="49" x="63" y="0"/>
+  <SubTexture name="ani_effects11_01_png-ani_ef11_02" width="61" height="98" cocos2d_pX="30.7" cocos2d_pY="49.05" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

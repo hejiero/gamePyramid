@@ -1,0 +1,41 @@
+<skeleton name="ani_prop03" frameRate="30" version="2.2">
+  <armatures>
+    <armature name="ani_prop03">
+      <b name="p2" x="0.05" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="ani_prop03_png-prop03_02" pX="25.5" pY="16.5"/>
+      </b>
+      <b name="x" x="-7.3" y="3.35" kX="-81.46" kY="-81.46" cX="0.34" cY="0.34" pX="0" pY="0" z="1">
+        <d name="ani_prop03_png-prop03_sanguang" pX="16" pY="16"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ani_prop03">
+      <mov name="01" dr="100" to="0" drTW="200" lp="1" twE="NaN">
+        <b name="p2" sc="1" dl="0">
+          <f x="0.05" y="0.05" cocos2d_x="0.05" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="49"/>
+          <f x="0.05" y="14.8" cocos2d_x="0.05" cocos2d_y="14.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="50"/>
+          <f x="0.05" y="0.05" cocos2d_x="0.05" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="x" sc="1" dl="0">
+          <f x="-7.3" y="3.35" cocos2d_x="-7.3" cocos2d_y="3.35" kX="-81.46" kY="-81.46" cX="0.34" cY="0.34" pX="0" pY="0" z="1" dI="0" twE="0" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-6.3" y="12.3" cocos2d_x="-6.3" cocos2d_y="12.3" kX="-81.46" kY="-81.46" cX="0.34" cY="0.34" pX="0" pY="0" z="1" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.95" y="8.35" cocos2d_x="-1.95" cocos2d_y="8.35" kX="0" kY="0" cX="1.09" cY="1.09" pX="0" pY="0" z="1" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.85" y="10.75" cocos2d_x="3.85" cocos2d_y="10.75" kX="75" kY="75" cX="1.44" cY="1.44" pX="0" pY="0" z="1" dI="0" dr="38">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ani_prop03" width="64" height="128">
+    <SubTexture name="ani_prop03_png-prop03_sanguang" width="32" height="32" cocos2d_pX="16" cocos2d_pY="16" x="0" y="35"/>
+    <SubTexture name="ani_prop03_png-prop03_02" width="51" height="33" cocos2d_pX="25.5" cocos2d_pY="16.5" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,26 @@
+{
+  "coin_1": {
+    "price": 6,
+    "desc": "这会帮到你的！",
+    "buy_coin": 60,
+    "send_coin": 0
+  },
+  "coin_2": {
+    "price": 30,
+    "desc": "看起来金光闪闪，很诱人！",
+    "buy_coin": 320,
+    "send_coin": 0
+  },
+  "coin_3": {
+    "price": 128,
+    "desc": "一个不错的交易！稳赚！",
+    "buy_coin": 1390,
+    "send_coin": 0
+  },
+  "coin_4": {
+    "price": 328,
+    "desc": "所有你想要的,肆无忌惮的购买！",
+    "buy_coin": 3780,
+    "send_coin": 0
+  }
+}
