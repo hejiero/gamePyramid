@@ -1,0 +1,49 @@
+<skeleton name="ani_effects05_01" frameRate="30" version="2.2">
+ <armatures>
+  <armature name="ani_effects05_01">
+   <b name="k" x="5.7" y="28.5" kX="0" kY="0" cX="6.58" cY="6.58" pX="0" pY="0" z="0">
+    <d name="ani_effects05_01_1-ani_effects05_01bai" pX="58" pY="103"/>
+   </b>
+   <b name="b" x="-4.55" y="-615.15" kX="-34.8" kY="-29.49" cX="2.09" cY="1.39" pX="0" pY="0" z="0">
+    <d name="ani_effects05_01_1-ani_effects05_01dian" pX="103.7" pY="128.4"/>
+   </b>
+   <b name="c" x="91.85" y="-676.95" kX="-16.39" kY="-12.28" cX="0.42" cY="0.66" pX="124.05" pY="-169.95" z="0">
+    <d name="ani_effects05_01_1-ani_effects05_01dian" pX="103.7" pY="128.4"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="ani_effects05_01">
+   <mov name="01" dr="60" to="0" drTW="120" lp="1" twE="NaN">
+    <b name="k" sc="1" dl="0">
+     <f dr="34" dI="-1"/>
+     <f x="5.7" y="28.5" cocos2d_x="5.7" cocos2d_y="28.5" kX="0" kY="0" cX="6.58" cY="6.58" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f dr="3" dI="-1"/>
+     <f x="5.7" y="28.5" cocos2d_x="5.7" cocos2d_y="28.5" kX="0" kY="0" cX="6.58" cY="6.58" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f dr="19" dI="-1"/>
+    </b>
+    <b name="b" sc="1" dl="0">
+     <f dr="42" dI="-1"/>
+     <f x="-4.55" y="-615.15" cocos2d_x="-4.55" cocos2d_y="-615.15" kX="-34.8" kY="-29.49" cX="2.09" cY="1.39" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+     <f x="-109.65" y="-383.95" cocos2d_x="-109.65" cocos2d_y="-383.95" kX="-14.12" kY="-15.68" cX="1.38" cY="1.59" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+     <f x="-139.55" y="-300.8" cocos2d_x="-139.55" cocos2d_y="-300.8" kX="2.13" kY="-2.69" cX="0.91" cY="1.99" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+     <f x="-193.05" y="-154.5" cocos2d_x="-193.05" cocos2d_y="-154.5" kX="20.88" kY="16.07" cX="0.13" cY="1.99" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f dr="12" dI="-1"/>
+    </b>
+    <b name="c" sc="1" dl="0">
+     <f dr="36" dI="-1"/>
+     <f x="91.85" y="-676.95" cocos2d_x="72" cocos2d_y="-558.65" kX="-16.39" kY="-12.28" cX="0.42" cY="0.66" pX="124.05" pY="-169.95" z="0" dI="0" twE="0" dr="1"/>
+     <f x="88.25" y="-676.95" cocos2d_x="49.85" cocos2d_y="-373.55" kX="-2.81" kY="0" cX="0.43" cY="1.79" pX="124.35" pY="-169.95" z="0" dI="0" twE="0" dr="1"/>
+     <f x="91.85" y="-676.95" cocos2d_x="23.95" cocos2d_y="-239.5" kX="1.92" kY="0" cX="0.43" cY="2.58" pX="124.2" pY="-169.95" z="0" dI="0" dr="1"/>
+     <f x="88" y="-646.55" cocos2d_x="8.2" cocos2d_y="-174.1" kX="3.22" kY="0" cX="0.43" cY="2.78" pX="124.1" pY="-169.9" z="1" dI="0" dr="1"/>
+     <f x="78.75" y="-538.6" cocos2d_x="11.45" cocos2d_y="-104.1" kX="7.39" kY="3.62" cX="0.09" cY="2.58" pX="124.45" pY="-169.95" z="1" dI="0" dr="1"/>
+     <f dr="19" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="ani_effects05_01" width="512" height="512">
+  <SubTexture name="ani_effects05_01_1-ani_effects05_01dian" width="207" height="256" cocos2d_pX="103.7" cocos2d_pY="128.4" x="0" y="0"/>
+  <SubTexture name="ani_effects05_01_1-ani_effects05_01bai" width="116" height="206" cocos2d_pX="58" cocos2d_pY="103" x="209" y="0"/>
+ </TextureAtlas>
+</skeleton>

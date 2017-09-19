@@ -6,8 +6,8 @@
     "py_type": 1,
     "floor_limit": 45,
     "floor": [
-      3,
-      6
+      4,
+      5
     ],
     "sl_type": 3,
     "prop_ran": []
@@ -19,8 +19,8 @@
     "py_type": 2,
     "floor_limit": 45,
     "floor": [
-      2,
-      3
+      4,
+      6
     ],
     "sl_type": 3,
     "prop_ran": [
@@ -37,26 +37,22 @@
     "py_type": 1,
     "floor_limit": 45,
     "floor": [
-      3,
-      5
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -67,10 +63,10 @@
     "py_type": 2,
     "floor_limit": 45,
     "floor": [
-      2,
-      5
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -82,47 +78,38 @@
     "id": 5,
     "index": 1,
     "bg_type": 1,
-    "py_type": 1,
+    "py_type": 2,
     "floor_limit": 45,
     "floor": [
       3,
       5
     ],
-    "sl_type": 1,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
+    "sl_type": 2,
+    "prop_ran": []
   },
   {
     "id": 6,
     "index": 1,
     "bg_type": 1,
-    "py_type": 2,
+    "py_type": 1,
     "floor_limit": 45,
     "floor": [
-      2,
-      3
+      4,
+      6
     ],
     "sl_type": 1,
     "prop_ran": [
       {
-        "id": 1,
-        "ran": 100
+        "id": 3,
+        "ran": 4
+      },
+      {
+        "id": 4,
+        "ran": 3
+      },
+      {
+        "id": 5,
+        "ran": 5
       }
     ]
   },
@@ -133,26 +120,22 @@
     "py_type": 2,
     "floor_limit": 45,
     "floor": [
-      3,
-      5
+      5,
+      7
     ],
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -160,71 +143,11 @@
     "id": 8,
     "index": 1,
     "bg_type": 1,
-    "py_type": 1,
-    "floor_limit": 45,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 1,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "index": 1,
-    "bg_type": 1,
     "py_type": 2,
     "floor_limit": 45,
     "floor": [
-      3,
-      5
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "index": 1,
-    "bg_type": 1,
-    "py_type": 2,
-    "floor_limit": 45,
-    "floor": [
-      2,
-      3
+      4,
+      6
     ],
     "sl_type": 1,
     "prop_ran": [
@@ -235,8 +158,20 @@
     ]
   },
   {
-    "id": 11,
+    "id": 9,
     "index": 2,
+    "bg_type": 1,
+    "py_type": 4,
+    "floor_limit": 46,
+    "floor": [
+      1
+    ],
+    "sl_type": 5,
+    "prop_ran": []
+  },
+  {
+    "id": 10,
+    "index": 3,
     "bg_type": 1,
     "py_type": 1,
     "floor_limit": 80,
@@ -244,29 +179,25 @@
       4,
       8
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 12,
-    "index": 2,
+    "id": 11,
+    "index": 3,
     "bg_type": 1,
     "py_type": 2,
     "floor_limit": 80,
@@ -275,28 +206,11 @@
       5
     ],
     "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
+    "prop_ran": []
   },
   {
-    "id": 13,
-    "index": 2,
+    "id": 12,
+    "index": 3,
     "bg_type": 1,
     "py_type": 1,
     "floor_limit": 80,
@@ -304,29 +218,25 @@
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 5,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 14,
-    "index": 2,
+    "id": 13,
+    "index": 3,
     "bg_type": 1,
     "py_type": 2,
     "floor_limit": 80,
@@ -334,7 +244,7 @@
       5,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 4,
     "prop_ran": [
       {
         "id": 1,
@@ -343,8 +253,8 @@
     ]
   },
   {
-    "id": 15,
-    "index": 2,
+    "id": 14,
+    "index": 3,
     "bg_type": 1,
     "py_type": 2,
     "floor_limit": 80,
@@ -355,26 +265,22 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 16,
-    "index": 2,
+    "id": 15,
+    "index": 3,
     "bg_type": 1,
     "py_type": 1,
     "floor_limit": 80,
@@ -382,29 +288,25 @@
       4,
       8
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 17,
-    "index": 2,
+    "id": 16,
+    "index": 3,
     "bg_type": 1,
     "py_type": 2,
     "floor_limit": 80,
@@ -412,7 +314,7 @@
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 8,
     "prop_ran": [
       {
         "id": 1,
@@ -421,11 +323,23 @@
     ]
   },
   {
+    "id": 17,
+    "index": 4,
+    "bg_type": 1,
+    "py_type": 4,
+    "floor_limit": 81,
+    "floor": [
+      1
+    ],
+    "sl_type": 5,
+    "prop_ran": []
+  },
+  {
     "id": 18,
-    "index": 3,
+    "index": 5,
     "bg_type": 1,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       6,
       12
@@ -433,34 +347,30 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 19,
-    "index": 3,
+    "index": 5,
     "bg_type": 1,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -470,10 +380,10 @@
   },
   {
     "id": 20,
-    "index": 3,
+    "index": 5,
     "bg_type": 1,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       10
@@ -481,64 +391,56 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 21,
-    "index": 3,
+    "index": 5,
     "bg_type": 1,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 5,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 22,
-    "index": 3,
+    "index": 5,
     "bg_type": 1,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 8,
     "prop_ran": [
       {
         "id": 1,
@@ -548,45 +450,41 @@
   },
   {
     "id": 23,
-    "index": 3,
+    "index": 5,
     "bg_type": 1,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       3,
       5
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 24,
-    "index": 3,
+    "index": 5,
     "bg_type": 1,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -601,10 +499,10 @@
     "py_type": 1,
     "floor_limit": 40,
     "floor": [
-      3,
+      2,
       6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": []
   },
   {
@@ -614,10 +512,10 @@
     "py_type": 2,
     "floor_limit": 40,
     "floor": [
-      2,
-      3
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -638,20 +536,16 @@
     "sl_type": 3,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -662,10 +556,10 @@
     "py_type": 2,
     "floor_limit": 40,
     "floor": [
-      2,
-      5
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -677,29 +571,25 @@
     "id": 29,
     "index": 1,
     "bg_type": 2,
-    "py_type": 1,
+    "py_type": 2,
     "floor_limit": 40,
     "floor": [
       3,
       5
     ],
-    "sl_type": 1,
+    "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -707,17 +597,25 @@
     "id": 30,
     "index": 1,
     "bg_type": 2,
-    "py_type": 2,
+    "py_type": 1,
     "floor_limit": 40,
     "floor": [
       2,
-      3
+      5
     ],
-    "sl_type": 1,
+    "sl_type": 6,
     "prop_ran": [
       {
-        "id": 1,
-        "ran": 100
+        "id": 3,
+        "ran": 4
+      },
+      {
+        "id": 4,
+        "ran": 3
+      },
+      {
+        "id": 5,
+        "ran": 5
       }
     ]
   },
@@ -728,91 +626,14 @@
     "py_type": 2,
     "floor_limit": 40,
     "floor": [
-      3,
-      5
+      5,
+      7
     ],
     "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
+    "prop_ran": []
   },
   {
     "id": 32,
-    "index": 1,
-    "bg_type": 2,
-    "py_type": 1,
-    "floor_limit": 40,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 1,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "index": 1,
-    "bg_type": 2,
-    "py_type": 2,
-    "floor_limit": 40,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 34,
     "index": 1,
     "bg_type": 2,
     "py_type": 2,
@@ -821,7 +642,7 @@
       2,
       3
     ],
-    "sl_type": 1,
+    "sl_type": 6,
     "prop_ran": [
       {
         "id": 1,
@@ -830,8 +651,20 @@
     ]
   },
   {
-    "id": 35,
+    "id": 33,
     "index": 2,
+    "bg_type": 2,
+    "py_type": 4,
+    "floor_limit": 41,
+    "floor": [
+      1
+    ],
+    "sl_type": 6,
+    "prop_ran": []
+  },
+  {
+    "id": 34,
+    "index": 3,
     "bg_type": 2,
     "py_type": 1,
     "floor_limit": 75,
@@ -839,29 +672,25 @@
       4,
       8
     ],
-    "sl_type": 3,
+    "sl_type": 6,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 36,
-    "index": 2,
+    "id": 35,
+    "index": 3,
     "bg_type": 2,
     "py_type": 2,
     "floor_limit": 75,
@@ -870,28 +699,11 @@
       5
     ],
     "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
+    "prop_ran": []
   },
   {
-    "id": 37,
-    "index": 2,
+    "id": 36,
+    "index": 3,
     "bg_type": 2,
     "py_type": 1,
     "floor_limit": 75,
@@ -899,29 +711,25 @@
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 4,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 38,
-    "index": 2,
+    "id": 37,
+    "index": 3,
     "bg_type": 2,
     "py_type": 2,
     "floor_limit": 75,
@@ -929,7 +737,7 @@
       5,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 6,
     "prop_ran": [
       {
         "id": 1,
@@ -938,8 +746,8 @@
     ]
   },
   {
-    "id": 39,
-    "index": 2,
+    "id": 38,
+    "index": 3,
     "bg_type": 2,
     "py_type": 2,
     "floor_limit": 75,
@@ -950,26 +758,22 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 40,
-    "index": 2,
+    "id": 39,
+    "index": 3,
     "bg_type": 2,
     "py_type": 1,
     "floor_limit": 75,
@@ -977,29 +781,25 @@
       4,
       8
     ],
-    "sl_type": 3,
+    "sl_type": 8,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 41,
-    "index": 2,
+    "id": 40,
+    "index": 3,
     "bg_type": 2,
     "py_type": 2,
     "floor_limit": 75,
@@ -1007,7 +807,7 @@
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 4,
     "prop_ran": [
       {
         "id": 1,
@@ -1016,11 +816,23 @@
     ]
   },
   {
+    "id": 41,
+    "index": 4,
+    "bg_type": 2,
+    "py_type": 4,
+    "floor_limit": 76,
+    "floor": [
+      1
+    ],
+    "sl_type": 5,
+    "prop_ran": []
+  },
+  {
     "id": 42,
-    "index": 3,
+    "index": 5,
     "bg_type": 2,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       6,
       12
@@ -1028,34 +840,30 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 43,
-    "index": 3,
+    "index": 5,
     "bg_type": 2,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 6,
     "prop_ran": [
       {
         "id": 1,
@@ -1065,10 +873,10 @@
   },
   {
     "id": 44,
-    "index": 3,
+    "index": 5,
     "bg_type": 2,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       10
@@ -1076,64 +884,56 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 45,
-    "index": 3,
+    "index": 5,
     "bg_type": 2,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 8,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 46,
-    "index": 3,
+    "index": 5,
     "bg_type": 2,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 4,
     "prop_ran": [
       {
         "id": 1,
@@ -1143,45 +943,41 @@
   },
   {
     "id": 47,
-    "index": 3,
+    "index": 5,
     "bg_type": 2,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       3,
       5
     ],
-    "sl_type": 3,
+    "sl_type": 6,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 48,
-    "index": 3,
+    "index": 5,
     "bg_type": 2,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 6,
     "prop_ran": [
       {
         "id": 1,
@@ -1196,7 +992,7 @@
     "py_type": 1,
     "floor_limit": 35,
     "floor": [
-      3,
+      2,
       6
     ],
     "sl_type": 3,
@@ -1209,10 +1005,10 @@
     "py_type": 2,
     "floor_limit": 35,
     "floor": [
-      2,
-      3
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
         "id": 1,
@@ -1230,23 +1026,19 @@
       3,
       5
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -1257,10 +1049,10 @@
     "py_type": 2,
     "floor_limit": 35,
     "floor": [
-      2,
-      5
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -1272,29 +1064,25 @@
     "id": 53,
     "index": 1,
     "bg_type": 3,
-    "py_type": 1,
+    "py_type": 2,
     "floor_limit": 35,
     "floor": [
       3,
       5
     ],
-    "sl_type": 1,
+    "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -1302,17 +1090,25 @@
     "id": 54,
     "index": 1,
     "bg_type": 3,
-    "py_type": 2,
+    "py_type": 1,
     "floor_limit": 35,
     "floor": [
       2,
-      3
+      5
     ],
-    "sl_type": 1,
+    "sl_type": 7,
     "prop_ran": [
       {
-        "id": 1,
-        "ran": 100
+        "id": 3,
+        "ran": 4
+      },
+      {
+        "id": 4,
+        "ran": 3
+      },
+      {
+        "id": 5,
+        "ran": 5
       }
     ]
   },
@@ -1323,91 +1119,14 @@
     "py_type": 2,
     "floor_limit": 35,
     "floor": [
-      3,
-      5
+      5,
+      7
     ],
     "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
+    "prop_ran": []
   },
   {
     "id": 56,
-    "index": 1,
-    "bg_type": 3,
-    "py_type": 1,
-    "floor_limit": 35,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 1,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "index": 1,
-    "bg_type": 3,
-    "py_type": 2,
-    "floor_limit": 35,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 58,
     "index": 1,
     "bg_type": 3,
     "py_type": 2,
@@ -1416,7 +1135,7 @@
       2,
       3
     ],
-    "sl_type": 1,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -1425,8 +1144,20 @@
     ]
   },
   {
-    "id": 59,
+    "id": 57,
     "index": 2,
+    "bg_type": 3,
+    "py_type": 4,
+    "floor_limit": 36,
+    "floor": [
+      1
+    ],
+    "sl_type": 7,
+    "prop_ran": []
+  },
+  {
+    "id": 58,
+    "index": 3,
     "bg_type": 3,
     "py_type": 1,
     "floor_limit": 70,
@@ -1434,29 +1165,25 @@
       4,
       8
     ],
-    "sl_type": 3,
+    "sl_type": 7,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 60,
-    "index": 2,
+    "id": 59,
+    "index": 3,
     "bg_type": 3,
     "py_type": 2,
     "floor_limit": 70,
@@ -1467,26 +1194,22 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 61,
-    "index": 2,
+    "id": 60,
+    "index": 3,
     "bg_type": 3,
     "py_type": 1,
     "floor_limit": 70,
@@ -1494,29 +1217,25 @@
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 7,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 62,
-    "index": 2,
+    "id": 61,
+    "index": 3,
     "bg_type": 3,
     "py_type": 2,
     "floor_limit": 70,
@@ -1524,7 +1243,7 @@
       5,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 8,
     "prop_ran": [
       {
         "id": 1,
@@ -1533,8 +1252,8 @@
     ]
   },
   {
-    "id": 63,
-    "index": 2,
+    "id": 62,
+    "index": 3,
     "bg_type": 3,
     "py_type": 2,
     "floor_limit": 70,
@@ -1545,26 +1264,22 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 64,
-    "index": 2,
+    "id": 63,
+    "index": 3,
     "bg_type": 3,
     "py_type": 1,
     "floor_limit": 70,
@@ -1572,29 +1287,25 @@
       4,
       8
     ],
-    "sl_type": 3,
+    "sl_type": 7,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 65,
-    "index": 2,
+    "id": 64,
+    "index": 3,
     "bg_type": 3,
     "py_type": 2,
     "floor_limit": 70,
@@ -1602,7 +1313,7 @@
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 4,
     "prop_ran": [
       {
         "id": 1,
@@ -1611,11 +1322,23 @@
     ]
   },
   {
+    "id": 65,
+    "index": 4,
+    "bg_type": 3,
+    "py_type": 4,
+    "floor_limit": 71,
+    "floor": [
+      1
+    ],
+    "sl_type": 7,
+    "prop_ran": []
+  },
+  {
     "id": 66,
-    "index": 3,
+    "index": 5,
     "bg_type": 3,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       6,
       12
@@ -1623,34 +1346,30 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 67,
-    "index": 3,
+    "index": 5,
     "bg_type": 3,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -1660,10 +1379,10 @@
   },
   {
     "id": 68,
-    "index": 3,
+    "index": 5,
     "bg_type": 3,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       10
@@ -1671,64 +1390,56 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 69,
-    "index": 3,
+    "index": 5,
     "bg_type": 3,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 4,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 70,
-    "index": 3,
+    "index": 5,
     "bg_type": 3,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
     ],
-    "sl_type": 1,
+    "sl_type": 8,
     "prop_ran": [
       {
         "id": 1,
@@ -1738,45 +1449,41 @@
   },
   {
     "id": 71,
-    "index": 3,
+    "index": 5,
     "bg_type": 3,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       3,
       5
     ],
-    "sl_type": 3,
+    "sl_type": 7,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 72,
-    "index": 3,
+    "index": 5,
     "bg_type": 3,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       8
     ],
-    "sl_type": 1,
+    "sl_type": 4,
     "prop_ran": [
       {
         "id": 1,
@@ -1791,10 +1498,10 @@
     "py_type": 1,
     "floor_limit": 30,
     "floor": [
-      3,
+      2,
       6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": []
   },
   {
@@ -1804,10 +1511,10 @@
     "py_type": 2,
     "floor_limit": 30,
     "floor": [
-      2,
-      3
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
         "id": 1,
@@ -1825,23 +1532,19 @@
       3,
       5
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -1852,10 +1555,10 @@
     "py_type": 2,
     "floor_limit": 30,
     "floor": [
-      2,
-      5
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
         "id": 1,
@@ -1867,29 +1570,25 @@
     "id": 77,
     "index": 1,
     "bg_type": 4,
-    "py_type": 1,
+    "py_type": 2,
     "floor_limit": 30,
     "floor": [
       3,
       5
     ],
-    "sl_type": 1,
+    "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
@@ -1897,17 +1596,25 @@
     "id": 78,
     "index": 1,
     "bg_type": 4,
-    "py_type": 2,
+    "py_type": 1,
     "floor_limit": 30,
     "floor": [
       2,
-      3
+      5
     ],
     "sl_type": 1,
     "prop_ran": [
       {
-        "id": 1,
-        "ran": 100
+        "id": 3,
+        "ran": 4
+      },
+      {
+        "id": 4,
+        "ran": 3
+      },
+      {
+        "id": 5,
+        "ran": 5
       }
     ]
   },
@@ -1918,91 +1625,27 @@
     "py_type": 2,
     "floor_limit": 30,
     "floor": [
-      3,
-      5
+      5,
+      7
     ],
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 80,
-    "index": 1,
-    "bg_type": 4,
-    "py_type": 1,
-    "floor_limit": 30,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 1,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 81,
-    "index": 1,
-    "bg_type": 4,
-    "py_type": 2,
-    "floor_limit": 30,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 82,
     "index": 1,
     "bg_type": 4,
     "py_type": 2,
@@ -2020,67 +1663,7 @@
     ]
   },
   {
-    "id": 83,
-    "index": 2,
-    "bg_type": 4,
-    "py_type": 1,
-    "floor_limit": 60,
-    "floor": [
-      4,
-      8
-    ],
-    "sl_type": 3,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 84,
-    "index": 2,
-    "bg_type": 4,
-    "py_type": 2,
-    "floor_limit": 60,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 85,
+    "id": 81,
     "index": 2,
     "bg_type": 4,
     "py_type": 1,
@@ -2092,26 +1675,74 @@
     "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 86,
-    "index": 2,
+    "id": 82,
+    "index": 3,
+    "bg_type": 4,
+    "py_type": 2,
+    "floor_limit": 60,
+    "floor": [
+      3,
+      5
+    ],
+    "sl_type": 2,
+    "prop_ran": [
+      {
+        "id": 3,
+        "ran": 4
+      },
+      {
+        "id": 4,
+        "ran": 3
+      },
+      {
+        "id": 5,
+        "ran": 5
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "index": 3,
+    "bg_type": 4,
+    "py_type": 1,
+    "floor_limit": 60,
+    "floor": [
+      4,
+      8
+    ],
+    "sl_type": 1,
+    "prop_ran": [
+      {
+        "id": 3,
+        "ran": 4
+      },
+      {
+        "id": 4,
+        "ran": 3
+      },
+      {
+        "id": 5,
+        "ran": 5
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "index": 3,
     "bg_type": 4,
     "py_type": 2,
     "floor_limit": 60,
@@ -2128,8 +1759,8 @@
     ]
   },
   {
-    "id": 87,
-    "index": 2,
+    "id": 85,
+    "index": 3,
     "bg_type": 4,
     "py_type": 2,
     "floor_limit": 60,
@@ -2140,26 +1771,22 @@
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
-    "id": 88,
-    "index": 2,
+    "id": 86,
+    "index": 3,
     "bg_type": 4,
     "py_type": 1,
     "floor_limit": 60,
@@ -2167,32 +1794,72 @@
       4,
       8
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "index": 3,
+    "bg_type": 4,
+    "py_type": 2,
+    "floor_limit": 60,
+    "floor": [
+      4,
+      6
+    ],
+    "sl_type": 1,
+    "prop_ran": [
+      {
+        "id": 1,
+        "ran": 100
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "index": 3,
+    "bg_type": 4,
+    "py_type": 2,
+    "floor_limit": 9999,
+    "floor": [
+      6,
+      12
+    ],
+    "sl_type": 2,
+    "prop_ran": [
+      {
+        "id": 3,
+        "ran": 4
+      },
+      {
+        "id": 4,
+        "ran": 3
+      },
+      {
+        "id": 5,
+        "ran": 5
       }
     ]
   },
   {
     "id": 89,
-    "index": 2,
+    "index": 4,
     "bg_type": 4,
     "py_type": 2,
-    "floor_limit": 60,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
@@ -2207,40 +1874,62 @@
   },
   {
     "id": 90,
-    "index": 3,
+    "index": 5,
     "bg_type": 4,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
-      6,
-      12
+      4,
+      10
     ],
     "sl_type": 2,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 91,
-    "index": 3,
+    "index": 5,
+    "bg_type": 4,
+    "py_type": 1,
+    "floor_limit": 9999,
+    "floor": [
+      4,
+      8
+    ],
+    "sl_type": 1,
+    "prop_ran": [
+      {
+        "id": 3,
+        "ran": 7
+      },
+      {
+        "id": 4,
+        "ran": 6
+      },
+      {
+        "id": 5,
+        "ran": 7
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "index": 5,
     "bg_type": 4,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
@@ -2254,74 +1943,40 @@
     ]
   },
   {
-    "id": 92,
-    "index": 3,
-    "bg_type": 4,
-    "py_type": 2,
-    "floor_limit": 999,
-    "floor": [
-      4,
-      10
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
     "id": 93,
-    "index": 3,
+    "index": 5,
     "bg_type": 4,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
-      4,
-      8
+      3,
+      5
     ],
     "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 4
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 3
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 5
       }
     ]
   },
   {
     "id": 94,
-    "index": 3,
+    "index": 5,
     "bg_type": 4,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
-      6
+      8
     ],
     "sl_type": 1,
     "prop_ran": [
@@ -2333,43 +1988,26 @@
   },
   {
     "id": 95,
-    "index": 3,
-    "bg_type": 4,
+    "index": 5,
+    "bg_type": 5,
     "py_type": 1,
-    "floor_limit": 999,
+    "floor_limit": 25,
     "floor": [
-      3,
-      5
+      2,
+      6
     ],
-    "sl_type": 3,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
+    "sl_type": 1,
+    "prop_ran": []
   },
   {
     "id": 96,
-    "index": 3,
-    "bg_type": 4,
+    "index": 5,
+    "bg_type": 5,
     "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 25,
     "floor": [
       4,
-      8
+      6
     ],
     "sl_type": 1,
     "prop_ran": [
@@ -2387,10 +2025,23 @@
     "floor_limit": 25,
     "floor": [
       3,
-      6
+      5
     ],
-    "sl_type": 3,
-    "prop_ran": []
+    "sl_type": 1,
+    "prop_ran": [
+      {
+        "id": 3,
+        "ran": 7
+      },
+      {
+        "id": 4,
+        "ran": 6
+      },
+      {
+        "id": 5,
+        "ran": 7
+      }
+    ]
   },
   {
     "id": 98,
@@ -2399,10 +2050,10 @@
     "py_type": 2,
     "floor_limit": 25,
     "floor": [
-      2,
-      3
+      4,
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
         "id": 1,
@@ -2414,18 +2065,14 @@
     "id": 99,
     "index": 1,
     "bg_type": 5,
-    "py_type": 1,
+    "py_type": 2,
     "floor_limit": 25,
     "floor": [
       3,
       5
     ],
-    "sl_type": 3,
+    "sl_type": 2,
     "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
       {
         "id": 3,
         "ran": 2
@@ -2444,17 +2091,25 @@
     "id": 100,
     "index": 1,
     "bg_type": 5,
-    "py_type": 2,
+    "py_type": 1,
     "floor_limit": 25,
     "floor": [
       2,
       5
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
-        "id": 1,
-        "ran": 100
+        "id": 3,
+        "ran": 7
+      },
+      {
+        "id": 4,
+        "ran": 6
+      },
+      {
+        "id": 5,
+        "ran": 7
       }
     ]
   },
@@ -2462,18 +2117,14 @@
     "id": 101,
     "index": 1,
     "bg_type": 5,
-    "py_type": 1,
+    "py_type": 2,
     "floor_limit": 25,
     "floor": [
-      3,
-      5
+      5,
+      7
     ],
-    "sl_type": 1,
+    "sl_type": 2,
     "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
       {
         "id": 3,
         "ran": 2
@@ -2508,20 +2159,16 @@
   },
   {
     "id": 103,
-    "index": 1,
+    "index": 2,
     "bg_type": 5,
-    "py_type": 2,
-    "floor_limit": 25,
+    "py_type": 1,
+    "floor_limit": 55,
     "floor": [
-      3,
-      5
+      4,
+      8
     ],
-    "sl_type": 2,
+    "sl_type": 1,
     "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
       {
         "id": 3,
         "ran": 2
@@ -2538,20 +2185,16 @@
   },
   {
     "id": 104,
-    "index": 1,
+    "index": 2,
     "bg_type": 5,
-    "py_type": 1,
-    "floor_limit": 25,
+    "py_type": 2,
+    "floor_limit": 55,
     "floor": [
       3,
       5
     ],
-    "sl_type": 1,
+    "sl_type": 2,
     "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
       {
         "id": 3,
         "ran": 2
@@ -2568,43 +2211,39 @@
   },
   {
     "id": 105,
-    "index": 1,
+    "index": 2,
     "bg_type": 5,
-    "py_type": 2,
-    "floor_limit": 25,
+    "py_type": 1,
+    "floor_limit": 55,
     "floor": [
-      3,
-      5
+      4,
+      8
     ],
-    "sl_type": 2,
+    "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 7
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 6
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 7
       }
     ]
   },
   {
     "id": 106,
-    "index": 1,
+    "index": 2,
     "bg_type": 5,
     "py_type": 2,
-    "floor_limit": 25,
+    "floor_limit": 55,
     "floor": [
-      2,
-      3
+      5,
+      8
     ],
     "sl_type": 1,
     "prop_ran": [
@@ -2618,18 +2257,14 @@
     "id": 107,
     "index": 2,
     "bg_type": 5,
-    "py_type": 1,
+    "py_type": 2,
     "floor_limit": 55,
     "floor": [
-      4,
-      8
+      3,
+      5
     ],
-    "sl_type": 3,
+    "sl_type": 2,
     "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
       {
         "id": 3,
         "ran": 2
@@ -2648,36 +2283,6 @@
     "id": 108,
     "index": 2,
     "bg_type": 5,
-    "py_type": 2,
-    "floor_limit": 55,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 109,
-    "index": 2,
-    "bg_type": 5,
     "py_type": 1,
     "floor_limit": 55,
     "floor": [
@@ -2687,32 +2292,28 @@
     "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
-      {
         "id": 3,
-        "ran": 2
+        "ran": 7
       },
       {
         "id": 4,
-        "ran": 2
+        "ran": 6
       },
       {
         "id": 5,
-        "ran": 2
+        "ran": 7
       }
     ]
   },
   {
-    "id": 110,
+    "id": 109,
     "index": 2,
     "bg_type": 5,
     "py_type": 2,
     "floor_limit": 55,
     "floor": [
-      5,
-      8
+      4,
+      6
     ],
     "sl_type": 1,
     "prop_ran": [
@@ -2723,21 +2324,17 @@
     ]
   },
   {
-    "id": 111,
-    "index": 2,
+    "id": 110,
+    "index": 3,
     "bg_type": 5,
     "py_type": 2,
-    "floor_limit": 55,
+    "floor_limit": 9999,
     "floor": [
-      3,
-      5
+      6,
+      12
     ],
     "sl_type": 2,
     "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
       {
         "id": 3,
         "ran": 2
@@ -2753,21 +2350,35 @@
     ]
   },
   {
-    "id": 112,
-    "index": 2,
+    "id": 111,
+    "index": 3,
     "bg_type": 5,
-    "py_type": 1,
-    "floor_limit": 55,
+    "py_type": 2,
+    "floor_limit": 9999,
     "floor": [
       4,
-      8
+      6
     ],
-    "sl_type": 3,
+    "sl_type": 1,
     "prop_ran": [
       {
-        "id": 2,
-        "ran": 2
-      },
+        "id": 1,
+        "ran": 100
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "index": 3,
+    "bg_type": 5,
+    "py_type": 2,
+    "floor_limit": 9999,
+    "floor": [
+      4,
+      10
+    ],
+    "sl_type": 2,
+    "prop_ran": [
       {
         "id": 3,
         "ran": 2
@@ -2784,19 +2395,27 @@
   },
   {
     "id": 113,
-    "index": 2,
+    "index": 3,
     "bg_type": 5,
-    "py_type": 2,
-    "floor_limit": 55,
+    "py_type": 1,
+    "floor_limit": 9999,
     "floor": [
       4,
-      6
+      8
     ],
     "sl_type": 1,
     "prop_ran": [
       {
-        "id": 1,
-        "ran": 100
+        "id": 3,
+        "ran": 7
+      },
+      {
+        "id": 4,
+        "ran": 6
+      },
+      {
+        "id": 5,
+        "ran": 7
       }
     ]
   },
@@ -2805,37 +2424,7 @@
     "index": 3,
     "bg_type": 5,
     "py_type": 2,
-    "floor_limit": 999,
-    "floor": [
-      6,
-      12
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 115,
-    "index": 3,
-    "bg_type": 5,
-    "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       6
@@ -2845,6 +2434,32 @@
       {
         "id": 1,
         "ran": 100
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "index": 3,
+    "bg_type": 5,
+    "py_type": 1,
+    "floor_limit": 9999,
+    "floor": [
+      3,
+      5
+    ],
+    "sl_type": 1,
+    "prop_ran": [
+      {
+        "id": 3,
+        "ran": 7
+      },
+      {
+        "id": 4,
+        "ran": 6
+      },
+      {
+        "id": 5,
+        "ran": 7
       }
     ]
   },
@@ -2853,115 +2468,7 @@
     "index": 3,
     "bg_type": 5,
     "py_type": 2,
-    "floor_limit": 999,
-    "floor": [
-      4,
-      10
-    ],
-    "sl_type": 2,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 117,
-    "index": 3,
-    "bg_type": 5,
-    "py_type": 1,
-    "floor_limit": 999,
-    "floor": [
-      4,
-      8
-    ],
-    "sl_type": 1,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 118,
-    "index": 3,
-    "bg_type": 5,
-    "py_type": 2,
-    "floor_limit": 999,
-    "floor": [
-      4,
-      6
-    ],
-    "sl_type": 1,
-    "prop_ran": [
-      {
-        "id": 1,
-        "ran": 100
-      }
-    ]
-  },
-  {
-    "id": 119,
-    "index": 3,
-    "bg_type": 5,
-    "py_type": 1,
-    "floor_limit": 999,
-    "floor": [
-      3,
-      5
-    ],
-    "sl_type": 3,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 2
-      },
-      {
-        "id": 3,
-        "ran": 2
-      },
-      {
-        "id": 4,
-        "ran": 2
-      },
-      {
-        "id": 5,
-        "ran": 2
-      }
-    ]
-  },
-  {
-    "id": 120,
-    "index": 3,
-    "bg_type": 5,
-    "py_type": 2,
-    "floor_limit": 999,
+    "floor_limit": 9999,
     "floor": [
       4,
       8

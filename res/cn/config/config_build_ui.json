@@ -1,151 +1,151 @@
 {
   "1": {
-    "x": 314,
-    "y": 348,
+    "x": 399,
+    "y": 376,
     "pngName": "map_jzw_1_png",
     "aniName": "ani_building_1"
   },
   "2": {
-    "x": 514,
-    "y": 476,
+    "x": 582,
+    "y": 480,
     "pngName": "map_jzw_2_png",
     "aniName": "ani_building_2"
   },
   "3": {
-    "x": 194,
-    "y": 632,
+    "x": 296,
+    "y": 621,
     "pngName": "map_jzw_3_png",
     "aniName": "ani_building_3"
   },
   "4": {
-    "x": 169,
-    "y": 904,
+    "x": 271,
+    "y": 867,
     "pngName": "map_jzw_4_png",
     "aniName": "ani_building_4"
   },
   "5": {
-    "x": 440,
-    "y": 1034,
+    "x": 516,
+    "y": 982,
     "pngName": "map_jzw_5_png",
     "aniName": "ani_building_5"
   },
   "6": {
-    "x": 459,
-    "y": 880,
+    "x": 534,
+    "y": 845,
     "pngName": "map_jzw_6_png",
     "aniName": "ani_building_6"
   },
   "7": {
-    "x": 786,
-    "y": 1009,
+    "x": 827,
+    "y": 958,
     "pngName": "map_jzw_7_png",
     "aniName": "ani_building_7"
   },
   "8": {
-    "x": 694,
-    "y": 826,
+    "x": 745,
+    "y": 797,
     "pngName": "map_jzw_8_png",
     "aniName": "ani_building_8"
   },
   "9": {
-    "x": 992,
-    "y": 776,
+    "x": 1013,
+    "y": 753,
     "pngName": "map_jzw_9_png",
     "aniName": "ani_building_9"
   },
   "10": {
-    "x": 976,
-    "y": 599,
+    "x": 1000,
+    "y": 592,
     "pngName": "map_jzw_10_png",
     "aniName": "ani_building_10"
   },
   "11": {
-    "x": 793,
-    "y": 427,
+    "x": 833,
+    "y": 436,
     "pngName": "map_jzw_11_png",
     "aniName": "ani_building_11"
   },
   "12": {
-    "x": 1076,
-    "y": 395,
+    "x": 1089,
+    "y": 409,
     "pngName": "map_jzw_12_png",
     "aniName": "ani_building_12"
   },
   "13": {
-    "x": 1407,
-    "y": 442,
+    "x": 1386,
+    "y": 451,
     "pngName": "map_jzw_13_png",
     "aniName": "ani_building_13"
   },
   "14": {
-    "x": 1639,
-    "y": 549,
+    "x": 1594,
+    "y": 546,
     "pngName": "map_jzw_14_png",
     "aniName": "ani_building_14"
   },
   "15": {
-    "x": 1343,
-    "y": 702,
+    "x": 1329,
+    "y": 684,
     "pngName": "map_jzw_15_png",
     "aniName": "ani_building_15"
   },
   "16": {
-    "x": 1616,
-    "y": 769,
+    "x": 1574,
+    "y": 745,
     "pngName": "map_jzw_16_png",
     "aniName": "ani_building_16"
   },
   "17": {
-    "x": 1228,
-    "y": 936,
+    "x": 1225,
+    "y": 895,
     "pngName": "map_jzw_17_png",
     "aniName": "ani_building_17"
   },
   "18": {
-    "x": 1538,
-    "y": 1014,
+    "x": 1505,
+    "y": 967,
     "pngName": "map_jzw_18_png",
     "aniName": "ani_building_18"
   },
   "19": {
-    "x": 1821,
-    "y": 891,
+    "x": 1760,
+    "y": 856,
     "pngName": "map_jzw_19_png",
     "aniName": "ani_building_19"
   },
   "20": {
-    "x": 1887,
-    "y": 1066,
+    "x": 1820,
+    "y": 1013,
     "pngName": "map_jzw_20_png",
     "aniName": "ani_building_20"
   },
   "21": {
-    "x": 2178,
-    "y": 969,
+    "x": 2081,
+    "y": 925,
     "pngName": "map_jzw_21_png",
     "aniName": "ani_building_21"
   },
   "22": {
-    "x": 2154,
-    "y": 768,
+    "x": 2060,
+    "y": 745,
     "pngName": "map_jzw_22_png",
     "aniName": "ani_building_22"
   },
   "23": {
-    "x": 1859,
-    "y": 634,
+    "x": 1794,
+    "y": 624,
     "pngName": "map_jzw_23_png",
     "aniName": "ani_building_23"
   },
   "24": {
-    "x": 2243,
-    "y": 554,
+    "x": 2139,
+    "y": 553,
     "pngName": "map_jzw_24_png",
     "aniName": "ani_building_24"
   },
   "25": {
-    "x": 2008,
-    "y": 341,
+    "x": 1928,
+    "y": 360,
     "pngName": "map_jzw_25_png",
     "aniName": "ani_building_25"
   }

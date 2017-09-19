@@ -282,7 +282,9 @@
                 <file name="src/language/language_words.js"/>
                 <file name="src/language/language.js"/>
                 <file name="src/tools/base64.js"/>
+                <file name="src/tools/md5.js"/>
                 <file name="src/tools/game_tools.js"/>
+                <file name="src/tools/httphelper.js"/>
                 <file name="src/tools/event.js"/>
                 <file name="src/tools/runner.js"/>
                 <file name="src/tools/global_schedule.js"/>
@@ -313,17 +315,23 @@
                 <file name="src/logic/wish_mgr.js"/>
                 <file name="src/logic/audio_mgr.js"/>
                 <file name="src/ui/tips_view.js"/>
+                <file name="src/ui/new_record_view.js"/>
                 <file name="src/ui/main_view.js"/>
                 <file name="src/ui/game_info_view.js"/>
                 <file name="src/ui/stop_view.js"/>
+                <file name="src/ui/shop_view.js"/>
                 <file name="src/ui/settle_endless_view.js"/>
                 <file name="src/ui/settle_level_view.js"/>
                 <file name="src/ui/level_fail_view.js"/>
                 <file name="src/ui/map_view.js"/>
                 <file name="src/ui/setting_view.js"/>
+                <file name="src/ui/help_view.js"/>
+                <file name="src/ui/name_view.js"/>
+                <file name="src/ui/rank_view.js"/>
                 <file name="src/ui/build_view.js"/>
                 <file name="src/ui/search_view.js"/>
                 <file name="src/ui/wish_view.js"/>
+                <file name="src/ui/unlock_view.js"/>
                 <file name="src/ui/building_ani_view.js"/>
                 <file name="main.js"/>
 

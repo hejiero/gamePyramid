@@ -18,31 +18,21 @@
   {
     "id": 3,
     "bg_type": 1,
-    "py_type": 2,
+    "py_type": 1,
     "sl_type": 3,
-    "prop_ran": [
-      {
-        "id": 2,
-        "ran": 100
-      }
-    ],
+    "prop_ran": [],
     "weather": []
   },
   {
     "id": 4,
     "bg_type": 1,
-    "py_type": 2,
+    "py_type": 1,
     "sl_type": 3,
-    "prop_ran": [
-      {
-        "id": 1,
-        "ran": 100
-      }
-    ],
+    "prop_ran": [],
     "weather": [
       {
         "id": 1,
-        "lv": 3
+        "lv": 1
       }
     ]
   },
@@ -50,7 +40,7 @@
     "id": 5,
     "bg_type": 1,
     "py_type": 2,
-    "sl_type": 3,
+    "sl_type": 5,
     "prop_ran": [
       {
         "id": 1,
@@ -63,20 +53,43 @@
     "id": 6,
     "bg_type": 1,
     "py_type": 2,
-    "sl_type": 2,
-    "prop_ran": [],
+    "sl_type": 5,
+    "prop_ran": [
+      {
+        "id": 1,
+        "ran": 100
+      }
+    ],
     "weather": []
   },
   {
     "id": 7,
     "bg_type": 1,
     "py_type": 2,
-    "sl_type": 2,
-    "prop_ran": [],
+    "sl_type": 5,
+    "prop_ran": [
+      {
+        "id": 1,
+        "ran": 100
+      }
+    ],
     "weather": []
   },
   {
     "id": 8,
+    "bg_type": 1,
+    "py_type": 2,
+    "sl_type": 5,
+    "prop_ran": [
+      {
+        "id": 1,
+        "ran": 100
+      }
+    ],
+    "weather": []
+  },
+  {
+    "id": 9,
     "bg_type": 1,
     "py_type": 2,
     "sl_type": 2,
@@ -84,18 +97,10 @@
     "weather": []
   },
   {
-    "id": 9,
-    "bg_type": 1,
-    "py_type": 1,
-    "sl_type": 1,
-    "prop_ran": [],
-    "weather": []
-  },
-  {
     "id": 10,
     "bg_type": 1,
-    "py_type": 1,
-    "sl_type": 1,
+    "py_type": 2,
+    "sl_type": 2,
     "prop_ran": [],
     "weather": []
   },
@@ -103,7 +108,7 @@
     "id": 11,
     "bg_type": 1,
     "py_type": 3,
-    "sl_type": 1,
+    "sl_type": 5,
     "prop_ran": [],
     "weather": []
   }

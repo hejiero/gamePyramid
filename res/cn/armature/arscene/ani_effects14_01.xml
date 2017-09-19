@@ -1,0 +1,99 @@
+<skeleton name="ani_effects14_01" frameRate="30" version="2.2">
+ <armatures>
+  <armature name="ani_effects14_01">
+   <b name="n" x="-0.05" y="46.05" kX="0" kY="0" cX="1.92" cY="0.9" pX="0" pY="0" z="0">
+    <d name="ani_effects14_01_gq" isArmature="1"/>
+   </b>
+   <b name="c" x="0.5" y="43.25" kX="0" kY="0" cX="2.08" cY="1.61" pX="0" pY="0" z="1">
+    <d name="ani_effects14_01_png-ani_ef14_guangzhu" pX="13.5" pY="256"/>
+   </b>
+   <b name="a" x="0.5" y="43.25" kX="0" kY="0" cX="2.08" cY="1.61" pX="0" pY="0" z="2">
+    <d name="ani_effects14_01_png-ani_ef14_guangzhu" pX="13.5" pY="256"/>
+   </b>
+  </armature>
+  <armature name="ani_effects14_01_gq">
+   <b name="g" x="0" y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="0">
+    <d name="ani_effects14_01_png-ani_ef14_01_guangquan" pX="50" pY="50"/>
+   </b>
+   <b name="g2" x="0" y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="1">
+    <d name="ani_effects14_01_png-ani_ef14_01_guangquan" pX="50" pY="50"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="ani_effects14_01">
+   <mov name="01" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+    <b name="n" sc="1" dl="0">
+     <f x="-0.05" y="46.05" cocos2d_x="-0.05" cocos2d_y="46.05" kX="0" kY="0" cX="1.92" cY="0.9" pX="0" pY="0" z="0" dI="0" dr="59"/>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="c" sc="1" dl="0">
+     <f x="0.5" y="43.25" cocos2d_x="0.5" cocos2d_y="43.25" kX="0" kY="0" cX="2.08" cY="1.61" pX="0" pY="0" z="1" dI="0" twE="0" dr="21">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.5" y="43.25" cocos2d_x="0.5" cocos2d_y="43.25" kX="0" kY="0" cX="2.08" cY="1.61" pX="0" pY="0" z="1" dI="0" twE="0" dr="22">
+      <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.5" y="43.25" cocos2d_x="0.5" cocos2d_y="43.25" kX="0" kY="0" cX="2.08" cY="1.61" pX="0" pY="0" z="1" dI="0" dr="16">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="a" sc="1" dl="0">
+     <f x="0.5" y="43.25" cocos2d_x="0.5" cocos2d_y="43.25" kX="0" kY="0" cX="2.08" cY="1.61" pX="0" pY="0" z="2" dI="0" twE="0" dr="29">
+      <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.5" y="43.25" cocos2d_x="0.5" cocos2d_y="43.25" kX="0" kY="0" cX="4.08" cY="1.61" pX="0" pY="0" z="2" dI="0" twE="0" dr="29">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.5" y="43.25" cocos2d_x="0.5" cocos2d_y="43.25" kX="0" kY="0" cX="2.08" cY="1.61" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="ani_effects14_01_gq">
+   <mov name="01" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+    <b name="g" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="0" dI="0" twE="0" dr="29">
+      <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.75" cY="1.75" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="0" dI="0" twE="0" dr="28">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="g2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="1" dI="0" twE="0" dr="14">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="1" dI="0" twE="0" dr="29">
+      <colorTransform a="0" r="0" g="0" b="0" aM="99" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.75" cY="1.75" pX="0" pY="0" z="1" dI="0" dr="15">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.21" cY="0.21" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="ani_effects14_01" width="256" height="512">
+  <SubTexture name="ani_effects14_01_png-ani_ef14_01_guangquan" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="29" y="0"/>
+  <SubTexture name="ani_effects14_01_png-ani_ef14_guangzhu" width="27" height="256" cocos2d_pX="13.5" cocos2d_pY="256" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>
